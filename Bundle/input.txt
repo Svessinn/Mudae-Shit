@@ -1,0 +1,881 @@
+.hack   0/37
+(bundle)
+dothack
+dot hack
+.hack Series
+.h
+
+14 $wa, 13 $ha, 14 $wg, 15 $hg
+07th Expansion   1/148
+(bundle)
+53 $wa, 31 $ha, 41 $wg, 27 $hg
+0verflow   0/11
+(bundle)
+7 $wa, 2 $ha, 2 $wg, 0 $hg
+101 Dalmatians Series   0/10
+(bundle)
+4 $wa, 6 $ha, 0 $wg, 0 $hg
+1bitHeart Series   0/55
+(bundle)
+1bH
+OBH
+
+0 $wa, 0 $ha, 27 $wg, 28 $hg
+20th Century Fox   1/553
+(bundle)
+20th Century Fox Television
+20th Century Studios
+Fox
+
+150 $wa, 357 $ha, 20 $wg, 31 $hg
+2K Games   0/23
+(bundle)
+0 $wa, 1 $ha, 12 $wg, 14 $hg
+3D Adult Comics   0/5
+(bundle)
+3D Porn Comics
+Adult 3D Comics
+
+5 $wa, 0 $ha, 0 $wg, 0 $hg
+3D Adult Games   0/302
+(bundle)
+Adult 3D Games
+3D Porn Games
+
+5 $wa, 0 $ha, 289 $wg, 14 $hg
+3D Realms   0/12
+(bundle)
+0 $wa, 0 $ha, 5 $wg, 7 $hg
+4-koma   13/557
+(bundle)
+4 koma
+Yonkoma
+Four Cell Manga
+4koma
+
+455 $wa, 105 $ha, 0 $wg, 1 $hg
+5th Cell   0/12
+(bundle)
+0 $wa, 0 $ha, 6 $wg, 7 $hg
+774 inc.   0/19
+(bundle)
+774 inc
+
+19 $wa, 0 $ha, 0 $wg, 0 $hg
+7th Dragon Series   0/13
+(bundle)
+Seventh Dragon Series
+
+0 $wa, 0 $ha, 12 $wg, 1 $hg
+A Goofy Bundle   0/6
+(bundle)
+3 $wa, 3 $ha, 0 $wg, 0 $hg
+A-1 Pictures   67/1354
+(bundle)
+A1 Pictures
+
+625 $wa, 637 $ha, 247 $wg, 137 $hg
+A.C.G.T   0/88
+(bundle)
+50 $wa, 10 $ha, 15 $wg, 15 $hg
+Aardman Animations   0/9
+(bundle)
+Aardman
+Aardman Studios
+
+3 $wa, 6 $ha, 0 $wg, 0 $hg
+aburasobabiyori   0/2
+(bundle)
+0 $wa, 0 $ha, 2 $wg, 0 $hg
+Access Games   0/34
+(bundle)
+0 $wa, 0 $ha, 16 $wg, 18 $hg
+Ace Attorney   0/185
+(bundle)
+AA
+Gyakuten Saiban
+Turnabout Trial
+Phoenix Wright
+
+19 $wa, 21 $ha, 74 $wg, 110 $hg
+Ace Attorney Investigations   0/27
+(bundle)
+1 $wa, 0 $ha, 10 $wg, 16 $hg
+Ace Attorney Trilogy   0/59
+(bundle)
+Phoenix Wright: Ace Attorney Trilogy
+Gyakuten Saiban 123: Naruhodo Selection
+Gyakuten Saiban 123
+AA123
+Phoenix Wright Trilogy
+
+18 $wa, 21 $ha, 24 $wg, 35 $hg
+Ace Combat   0/19
+(bundle)
+Ace Combat Series
+
+0 $wa, 0 $ha, 5 $wg, 14 $hg
+Actas   0/156
+(bundle)
+143 $wa, 14 $ha, 0 $wg, 0 $hg
+Action Roleplaying Games   0/1847
+(bundle)
+ARPGs
+ARPG
+Action RPGs
+
+77 $wa, 73 $ha, 932 $wg, 1000 $hg
+Activision   0/210
+(bundle)
+1 $wa, 3 $ha, 60 $wg, 153 $hg
+Activision Blizzard   0/443
+(bundle)
+4 $wa, 4 $ha, 148 $wg, 303 $hg
+Adachi Mitsuru   0/33
+(bundle)
+13 $wa, 20 $ha, 0 $wg, 0 $hg
+Adult Cartoons   0/517
+(bundle)
+158 $wa, 366 $ha, 0 $wg, 0 $hg
+Adult Swim   171/2662
+(bundle)
+[as]
+as
+
+905 $wa, 1822 $ha, 1 $wg, 3 $hg
+Advance Wars Series   0/26
+(bundle)
+AW Series
+
+0 $wa, 0 $ha, 11 $wg, 15 $hg
+AdventureQuest Series   0/6
+(bundle)
+0 $wa, 0 $ha, 3 $wg, 4 $hg
+Afternoon   11/207
+(bundle)
+129 $wa, 108 $ha, 0 $wg, 0 $hg
+AIC   1/258
+(bundle)
+Anime International Company
+
+197 $wa, 68 $ha, 1 $wg, 0 $hg
+AidaIro's Works   2/34
+(bundle)
+AidaIro
+
+14 $wa, 21 $ha, 0 $wg, 0 $hg
+Aikatsu! Series   0/82
+(bundle)
+Aikatsu Series
+Akt
+All Aikatsu
+
+71 $wa, 11 $ha, 68 $wg, 8 $hg
+Aka Akasaka's Works   6/49
+(bundle)
+Aka Akasaka
+
+36 $wa, 13 $ha, 0 $wg, 0 $hg
+Akame ga Kill Series   7/42
+(bundle)
+25 $wa, 19 $ha, 0 $wg, 0 $hg
+Akaneshinsha   0/21
+(bundle)
+Akane Shinsha
+Akane Shin Corporation
+Ninjin Comics
+Tenma Comics
+
+15 $wa, 6 $ha, 0 $wg, 0 $hg
+Akatsuki Works   0/7
+(bundle)
+0 $wa, 0 $ha, 5 $wg, 2 $hg
+Akiba's Trip Series   0/14
+(bundle)
+4 $wa, 1 $ha, 6 $wg, 3 $hg
+Akihisa Ikeda's Works   0/37
+(bundle)
+Akihisa Ikeda
+
+22 $wa, 14 $ha, 0 $wg, 1 $hg
+Akihito Tsukushi's Works   1/36
+(bundle)
+Akihito Tsukushi
+
+19 $wa, 23 $ha, 1 $wg, 1 $hg
+Akira Amano's Art   0/120
+(bundle)
+Akira Amano
+Akira Amano's Works
+
+36 $wa, 87 $ha, 0 $wg, 0 $hgAkira Toriyama's Art   4/336
+(bundle)
+Akira Toriyama
+Akira Toriyama's Works
+
+57 $wa, 168 $ha, 50 $wg, 91 $hg
+Akita Shoten   0/611
+(bundle)
+332 $wa, 282 $ha, 2 $wg, 0 $hg
+Aladdin Series   0/16
+(bundle)
+5 $wa, 12 $ha, 0 $wg, 0 $hg
+Alan Moore's Works   0/13
+(bundle)
+Alan Moore
+
+3 $wa, 11 $ha, 0 $wg, 0 $hg
+AliceSoft   0/185
+(bundle)
+it's eroge maker!!
+Alice Soft
+
+17 $wa, 2 $ha, 146 $wg, 34 $hg
+Alien Series   0/5
+(bundle)
+2 $wa, 2 $ha, 2 $wg, 0 $hg
+Alpha Polis Web Manga   0/22
+(bundle)
+13 $wa, 9 $ha, 0 $wg, 0 $hg
+Alternate Reality Game   0/17
+(bundle)
+Alternate Reality Games
+ARG
+ARGs
+
+5 $wa, 9 $ha, 4 $wg, 2 $hg
+Amahara's Works   0/49
+(bundle)
+42 $wa, 8 $ha, 0 $wg, 0 $hg
+Amazon Originals   0/71
+(bundle)
+22 $wa, 51 $ha, 1 $wg, 1 $hg
+Amnesia Series   0/3
+(bundle)
+0 $wa, 0 $ha, 1 $wg, 2 $hg
+Andrew Hussie's Works   0/176
+(bundle)
+Andrew Hussie
+
+49 $wa, 86 $ha, 27 $wg, 25 $hg
+Ane LaLa   0/7
+(bundle)
+4 $wa, 4 $ha, 0 $wg, 0 $hg
+Aneko Yusagi's Works   3/32
+(bundle)
+Aneko Yusagi
+
+22 $wa, 10 $ha, 0 $wg, 0 $hg
+Animal Crossing   0/259
+(bundle)
+Animal Forest
+Doubutsu no Mori
+AnCro
+AC
+
+0 $wa, 0 $ha, 107 $wg, 154 $hg
+Animation Meme Series   0/8
+(bundle)
+Animation Memes
+
+4 $wa, 1 $ha, 1 $wg, 2 $hg
+Aniplex   166/3983
+(bundle)
+1593 $wa, 1763 $ha, 673 $wg, 452 $hg
+Ankama   0/99
+(bundle)
+32 $wa, 48 $ha, 18 $wg, 25 $hg
+Ant Studio's Art   0/13
+(bundle)
+Ant Studio
+
+6 $wa, 7 $ha, 0 $wg, 0 $hg
+Antechinus   0/7
+(bundle)
+7 $wa, 0 $ha, 0 $wg, 0 $hg
+Ape Escape Series   0/15
+(bundle)
+AES
+
+0 $wa, 1 $ha, 5 $wg, 10 $hg
+Ar tonelico Series   0/51
+(bundle)
+0 $wa, 0 $ha, 36 $wg, 15 $hg
+Arc System Works   0/200
+(bundle)
+ArcSys
+
+24 $wa, 33 $ha, 102 $wg, 75 $hg
+Archanea   0/153
+(bundle)
+Archanea Series
+
+0 $wa, 0 $ha, 61 $wg, 93 $hg
+Archie Comics   0/49
+(bundle)
+Archie Comics Publications, Inc.
+ACP Inc.
+ACP Inc
+ACPI
+ACPInc.
+ACPInc
+
+19 $wa, 30 $ha, 0 $wg, 0 $hg
+Arifureta Series   1/16
+(bundle)
+13 $wa, 3 $ha, 0 $wg, 0 $hg
+Armpit Fetish Focused Series   0/6
+(bundle)
+Armpit Fandom Centered Content Made by and/or for the Armpit Community
+The Perfect Bundle for Armpit Lovers and Only Armpit Lovers
+Armpit Fetish
+Armpits
+Armpit
+
+6 $wa, 0 $ha, 0 $wg, 0 $hg
+Artix Entertainment   0/10
+(bundle)
+0 $wa, 0 $ha, 4 $wg, 7 $hg
+Artwork   0/5
+(bundle)
+Artworks
+Artbooks
+
+5 $wa, 0 $ha, 0 $wg, 0 $hg
+ASCII Media Works   59/2814
+(bundle)
+ASCII
+
+1543 $wa, 687 $ha, 785 $wg, 255 $hg
+ASMR   0/12
+(bundle)
+Autonomous Sensory Meridian Response
+Auto Sensory Meridian Response
+
+5 $wa, 0 $ha, 7 $wg, 0 $hg
+ASOBIMO, Inc.   0/6
+(bundle)
+0 $wa, 0 $ha, 5 $wg, 2 $hg
+Assassin's Creed Chronicles   0/3
+(bundle)
+0 $wa, 0 $ha, 1 $wg, 2 $hg
+Assassin's Creed Series   0/70
+(bundle)
+Assassins Creed Series
+AssCreed Series
+AC Series
+
+0 $wa, 1 $ha, 23 $wg, 47 $hg
+Assault Lily   0/14
+(bundle)
+14 $wa, 0 $ha, 2 $wg, 0 $hg
+Astro Boy Series   0/17
+(bundle)
+Tetsuwan Atom Series
+
+4 $wa, 13 $ha, 0 $wg, 0 $hg
+Ateam Inc.   0/66
+(bundle)
+0 $wa, 0 $ha, 50 $wg, 17 $hg
+Atelier   0/91
+(bundle)
+Atelier Series
+
+13 $wa, 3 $ha, 60 $wg, 31 $hg
+Atelier Iris Series   0/5
+(bundle)
+0 $wa, 0 $ha, 4 $wg, 1 $hg
+Atelier Kaguya   0/44
+(bundle)
+24 $wa, 0 $ha, 20 $wg, 0 $hg
+ATLUS   14/841
+(bundle)
+105 $wa, 105 $ha, 420 $wg, 430 $hg
+Atsushi Ohkubo's Works   7/110
+(bundle)
+Atsushi Ohkubo
+
+44 $wa, 70 $ha, 0 $wg, 0 $hg
+Avatar Series   6/72
+(bundle)
+Avatar
+
+31 $wa, 40 $ha, 0 $wg, 1 $hg
+Avex Entertainment   4/278
+(bundle)
+127 $wa, 113 $ha, 16 $wg, 25 $hg
+AXsiZ   0/34
+(bundle)
+27 $wa, 2 $ha, 5 $wg, 0 $hg
+Baen Books   0/2
+(bundle)
+2 $wa, 0 $ha, 1 $wg, 0 $hg
+Baku Ane Series   0/7
+(bundle)
+Baku Ane
+
+7 $wa, 0 $ha, 0 $wg, 0 $hg
+Bakugan   0/32
+(bundle)
+Bakugan Series
+BKGN
+
+12 $wa, 22 $ha, 4 $wg, 7 $hg
+Bakumatsu Fiction   1/313
+(bundle)
+83 $wa, 212 $ha, 0 $wg, 28 $hg
+Bandai Namco   94/4016
+(bundle)
+Namco
+Namco Bandai
+Scamco
+Bamco
+
+1864 $wa, 1233 $ha, 980 $wg, 723 $hg
+Bandai Namco Games   1/1127
+(bundle)
+201 $wa, 147 $ha, 615 $wg, 533 $hg
+Bande Dessinée   0/106
+(bundle)
+Franco-Belgian Comics
+BD Franco-Belge
+BDs
+Bandes Dessinées
+BD
+Bande Dessinee
+
+28 $wa, 63 $ha, 10 $wg, 17 $hg
+Bands   0/171
+(bundle)
+15 $wa, 157 $ha, 0 $wg, 0 $hg
+BanG Dream! Franchise   0/76
+(bundle)
+BanG Dream Franchise
+BDF
+BanG Dream! Series
+BanG Dream Series
+
+40 $wa, 14 $ha, 44 $wg, 28 $hg
+Banjo-Kazooie Series   0/15
+(bundle)
+Banjo Series
+BK Series
+Banjo Kazooie Series
+Banjo
+
+0 $wa, 0 $ha, 5 $wg, 11 $hg
+Barbie Series   0/11
+(bundle)
+6 $wa, 5 $ha, 0 $wg, 0 $hg
+Baten Kaitos   0/54
+(bundle)
+0 $wa, 0 $ha, 21 $wg, 34 $hg
+Battle Royale Games   0/102
+(bundle)
+BR
+Fortnite Clones
+
+0 $wa, 0 $ha, 53 $wg, 55 $hg
+Battle Royale Genre   1/100
+(bundle)
+38 $wa, 62 $ha, 0 $wg, 0 $hg
+Battle Spirits   0/21
+(bundle)
+8 $wa, 7 $ha, 11 $wg, 1 $hg
+BBC   0/78
+(bundle)
+British Broadcasting Corporation
+
+34 $wa, 48 $ha, 0 $wg, 0 $hg
+Be My Princess Series   0/9
+(bundle)
+BMP Series
+
+0 $wa, 0 $ha, 0 $wg, 9 $hg
+Be x Boy GOLD   0/9
+(bundle)
+0 $wa, 9 $ha, 0 $wg, 0 $hg
+Beans Ace   0/16
+(bundle)
+3 $wa, 13 $ha, 0 $wg, 0 $hg
+Beat 'em Up Games   0/278
+(bundle)
+Beat em Up Games
+Beat them Up Games
+Beat 'em Up
+Beat em Up
+Beat them Up
+Beat 'em Ups
+Brawler
+Beat em Ups
+
+33 $wa, 10 $ha, 137 $wg, 144 $hg
+Bee Train   0/79
+(bundle)
+36 $wa, 44 $ha, 10 $wg, 17 $hg
+Beemoov   0/51
+(bundle)
+0 $wa, 1 $ha, 19 $wg, 31 $hg
+Beenox   0/45
+(bundle)
+1 $wa, 0 $ha, 13 $wg, 33 $hg
+BEMANI   0/58
+(bundle)
+7 $wa, 0 $ha, 45 $wg, 14 $hg
+Ben 10 Series   0/26
+(bundle)
+11 $wa, 15 $ha, 0 $wg, 0 $hg
+Bessatsu Margaret   0/73
+(bundle)
+37 $wa, 36 $ha, 0 $wg, 0 $hg
+Bessatsu Shounen Magazine   11/196
+(bundle)
+Bessatsu Shounen
+Bessatsu Shonen Magazine
+
+96 $wa, 103 $ha, 0 $wg, 0 $hg
+Bestiality   0/38
+(bundle)
+Beastiality
+Zoophilia
+
+21 $wa, 0 $ha, 17 $wg, 1 $hg
+Bethesda   1/188
+(bundle)
+0 $wa, 1 $ha, 85 $wg, 135 $hg
+Betsucomi   1/30
+(bundle)
+8 $wa, 22 $ha, 0 $wg, 0 $hg
+Beyblade Series   0/92
+(bundle)
+12 $wa, 80 $ha, 2 $wg, 3 $hg
+BF (Beta) Series   0/50
+(bundle)
+0 $wa, 0 $ha, 0 $wg, 50 $hg
+Bibury   9/27
+(bundle)
+7 $wa, 4 $ha, 15 $wg, 1 $hg
+Big Comic Spirits   0/86
+(bundle)
+33 $wa, 53 $ha, 0 $wg, 0 $hg
+Big Gangan   39/298
+(bundle)
+151 $wa, 126 $ha, 9 $wg, 16 $hg
+Big Hit Entertainment   0/31
+(bundle)
+Big Hit
+
+6 $wa, 25 $ha, 0 $wg, 0 $hg
+BioShock Series   0/17
+(bundle)
+0 $wa, 0 $ha, 7 $wg, 10 $hg
+BioWare   0/153
+(bundle)
+4 $wa, 1 $ha, 67 $wg, 90 $hg
+Black Clover Series   4/97
+(bundle)
+BC Series
+
+38 $wa, 61 $ha, 1 $wg, 0 $hg
+BlackMonkey-Pro   0/58
+(bundle)
+Herculion
+BLits
+BlackMonkeyPro
+
+0 $wa, 0 $ha, 6 $wg, 52 $hg
+Black★Rock Shooter Series   0/22
+(bundle)
+BRSS
+Black Rock Shooter Series
+BRS Series
+
+13 $wa, 1 $ha, 6 $wg, 2 $hg
+BLADE   0/15
+(bundle)
+13 $wa, 2 $ha, 0 $wg, 0 $hg
+BlazBlue Series   0/66
+(bundle)
+BlazBlue
+
+22 $wa, 23 $ha, 35 $wg, 31 $hg
+Bleach Series   7/195
+(bundle)
+65 $wa, 132 $ha, 1 $wg, 1 $hg
+Blizzard Entertainment   0/240
+(bundle)
+Blizzard
+
+3 $wa, 2 $ha, 92 $wg, 153 $hg
+Bloody Roar   0/5
+(bundle)
+Bloody Roar Series
+
+0 $wa, 0 $ha, 1 $wg, 4 $hg
+Blue Sky Studios   0/33
+(bundle)
+13 $wa, 20 $ha, 0 $wg, 0 $hg
+Body Swap   3/62
+(bundle)
+37 $wa, 25 $ha, 1 $wg, 0 $hg
+Boichi's Art   2/55
+(bundle)
+Boichi
+
+24 $wa, 33 $ha, 0 $wg, 0 $hg
+Boku no Hero Academia Series   25/185
+(bundle)
+My Hero Academia Series
+BNHA Series
+MHA Series
+
+59 $wa, 123 $ha, 2 $wg, 2 $hg
+Bomberman Series   0/12
+(bundle)
+1 $wa, 2 $ha, 3 $wg, 8 $hg
+Bomtoon   0/97
+(bundle)
+17 $wa, 80 $ha, 0 $wg, 0 $hg
+Bones   49/770
+(bundle)
+303 $wa, 475 $ha, 22 $wg, 22 $hg
+Boogiepop Series   0/21
+(bundle)
+14 $wa, 9 $ha, 0 $wg, 0 $hg
+Borderlands Series   0/53
+(bundle)
+BL Series
+
+0 $wa, 0 $ha, 24 $wg, 32 $hg
+Bosei Kanojo Series   0/2
+(bundle)
+0 $wa, 0 $ha, 2 $wg, 0 $hg
+Bouncy   0/5
+(bundle)
+5 $wa, 0 $ha, 0 $wg, 0 $hg
+Boys' Love   3/1731
+(bundle)
+Shounen Ai
+MaleXMale
+BL Bundle
+Boys Love
+MLM
+Yaoi
+Gay
+801
+BL
+Fujoshi
+Fudanshi
+
+87 $wa, 1135 $ha, 65 $wg, 461 $hg
+Brain's Base   27/480
+(bundle)
+201 $wa, 259 $ha, 18 $wg, 20 $hg
+Brandon Sanderson's Works   0/40
+(bundle)
+Brandon Sanderson
+
+18 $wa, 23 $ha, 0 $wg, 0 $hg
+Bravely Series   0/38
+(bundle)
+Bravely
+
+0 $wa, 0 $ha, 21 $wg, 17 $hg
+Brazilian Media   0/153
+(bundle)
+Brazilian Bundle
+Brasil Bundle
+Bundle Brasileiro
+Brazuca
+Made in Brazil
+Brazil Bundle
+Come to Brazil
+Brazil
+Brasil
+:flag_br:
+
+44 $wa, 103 $ha, 4 $wg, 4 $hg
+Breath of Fire   0/22
+(bundle)
+BoF
+Breath of Fire Series
+
+0 $wa, 2 $ha, 11 $wg, 12 $hg
+Brianna Lei's Works   0/10
+(bundle)
+Brianna Lei
+
+0 $wa, 0 $ha, 7 $wg, 4 $hg
+Broccoli   0/116
+(bundle)
+44 $wa, 53 $ha, 33 $wg, 23 $hg
+Browser Games   0/1327
+(bundle)
+Web Games
+
+88 $wa, 84 $ha, 926 $wg, 408 $hg
+Bryan Lee O'Malley's Works   0/31
+(bundle)
+Bryan Lee O'Malley
+
+16 $wa, 15 $ha, 0 $wg, 0 $hg
+BTS Bundle   0/33
+(bundle)
+1 $wa, 10 $ha, 14 $wg, 19 $hg
+Buffyverse   0/22
+(bundle)
+14 $wa, 8 $ha, 0 $wg, 0 $hg
+Bullet Hell   0/488
+(bundle)
+Danmaku
+Manic Shooters
+
+54 $wa, 0 $ha, 396 $wg, 181 $hg
+BUNBUN's Art   11/130
+(bundle)
+Abec's Art
+BUNBUN
+Abec
+
+76 $wa, 33 $ha, 19 $wg, 3 $hg
+Bunnywalker   0/98
+(bundle)
+Bunny Walker
+
+90 $wa, 1 $ha, 8 $wg, 0 $hg
+Buriki Clock   0/5
+(bundle)
+0 $wa, 0 $ha, 3 $wg, 2 $hg
+Bushiroad   5/518
+(bundle)
+239 $wa, 160 $ha, 250 $wg, 66 $hg
+Butch Hartman's Works   0/40
+(bundle)
+Butch Hartman
+
+14 $wa, 26 $ha, 0 $wg, 0 $hg
+Cab   0/4
+(bundle)
+0 $wa, 4 $ha, 0 $wg, 0 $hg
+Call of Duty   0/30
+(bundle)
+CoD
+
+0 $wa, 0 $ha, 3 $wg, 27 $hg
+Canadian Media   1/346
+(bundle)
+Canada Bundle
+
+72 $wa, 143 $ha, 66 $wg, 85 $hg
+Capcom   0/853
+(bundle)
+Crapcom
+Capcpom
+
+52 $wa, 108 $ha, 324 $wg, 535 $hg
+Caravan Palace's Works   0/3
+(bundle)
+2 $wa, 2 $ha, 0 $wg, 0 $hg
+Cardfight!! Vanguard Series   0/97
+(bundle)
+Cardfight Vanguard Series
+CFV Series
+
+45 $wa, 38 $ha, 27 $wg, 22 $hg
+Career Soft   0/120
+(bundle)
+0 $wa, 0 $ha, 41 $wg, 79 $hg
+Carnby Kim's Works   0/23
+(bundle)
+Carnby Kim
+
+7 $wa, 16 $ha, 0 $wg, 0 $hg
+Cartoon Network   12/1177
+(bundle)
+CN
+
+387 $wa, 805 $ha, 12 $wg, 14 $hg
+Castlevania   0/57
+(bundle)
+CV
+
+6 $wa, 8 $ha, 16 $wg, 32 $hg
+Cation Series   0/10
+(bundle)
+0 $wa, 0 $ha, 10 $wg, 0 $hg
+CBeebies   0/21
+(bundle)
+6 $wa, 15 $ha, 0 $wg, 0 $hg
+CD Projekt Red   0/77
+(bundle)
+CD Projekt S.A.
+CD Projekt
+
+13 $wa, 13 $ha, 31 $wg, 44 $hg
+Champion RED   0/93
+(bundle)
+68 $wa, 25 $ha, 0 $wg, 0 $hg
+Channel Awesome   0/2
+(bundle)
+Criticverse
+
+0 $wa, 2 $ha, 0 $wg, 0 $hg
+Chaos Chronicle Series   0/5
+(bundle)
+3 $wa, 2 $ha, 0 $wg, 0 $hg
+Chaos Rings Series   0/15
+(bundle)
+0 $wa, 0 $ha, 8 $wg, 7 $hg
+Charisma Records   0/8
+(bundle)
+2 $wa, 8 $ha, 0 $wg, 0 $hg
+CHARON Universe   0/36
+(bundle)
+CHARON
+CHARON's Works
+
+0 $wa, 0 $ha, 33 $wg, 3 $hg
+Cheri+   0/19
+(bundle)
+1 $wa, 18 $ha, 0 $wg, 0 $hg
+Cheritz   0/26
+(bundle)
+0 $wa, 0 $ha, 7 $wg, 19 $hg
+Chespirito   0/10
+(bundle)
+3 $wa, 7 $ha, 0 $wg, 0 $hg
+Chippai   0/5
+(bundle)
+5 $wa, 0 $ha, 0 $wg, 0 $hg
+Christmas Specials   0/52
+(bundle)
+Christmas
+Xmas Specials
+Xmas
+
+9 $wa, 43 $ha, 0 $wg, 0 $hg
+Chrono   0/18
+(bundle)
+Chrono Series
+
+0 $wa, 0 $ha, 7 $wg, 12 $hg
+Civilization   0/11
+(bundle)
+Civ Series
+Civilization Series
+Sid Meier's Civilization
+Civ
+
+0 $wa, 0 $ha, 3 $wg, 8 $hg
+CLAMP   2/171
+(bundle)
+96 $wa, 93 $ha, 0 $wg, 0 $hg
+Clock Tower Series   0/6
+(bundle)
+0 $wa, 0 $ha, 4 $wg, 2 $hg
+Clock Up   0/12
+(bundle)
+8 $wa, 1 $ha, 3 $wg, 0 $hg
+Cloud22   0/87
+(bundle)
+57 $wa, 12 $ha, 44 $wg, 12 $hg
