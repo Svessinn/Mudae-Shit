@@ -3,8 +3,8 @@ def main():
 	inp =  input()
 	dct = ddict(list)
 	while inp:
-		i = list(inp.split('  :revolving_hearts: => '))
-		dct[i[1]].append(i[0])
+		i = list(inp.split(' :revolving_hearts: => '))
+		dct[i[1].strip()].append(i[0].strip())
 		inp = input()
 	lst = []
 	for i in dct:

@@ -8,4 +8,4 @@ def main():
 		f.seek(0)
 		f.truncate()
 		for i in lst:
-			print('$imat ' + i, file=f)
+			print(i, file=f)

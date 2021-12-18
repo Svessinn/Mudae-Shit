@@ -1,5 +1,5 @@
 def main():
-	inp = input()
+	inp = input() 
 	lst = []
 	while inp:
 		lst.append(' - '.join(inp.split(' - ')[0:-1]))

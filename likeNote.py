@@ -1,7 +1,7 @@
 def main():
-	inp = input()
+	inp = input() # Input your $llo+mv list
 	lst = []
 	while inp:
-		lst.append(inp[0:-20])
+		lst.append(inp.split(' :revolving_he')[0])
 		inp = input()
 	print(*lst, sep='$')

@@ -1,11 +1,11 @@
 def main():
-	inp = input()
+	inp = input() # $topmvu
 	lst = []
 	while inp:
 		lst.append(inp.split(' - ')[1].split(' · ')[0])
 		inp = input()
 
-	inp = input()
+	inp = input() # $wlmvu
 	while inp:
 		if inp in lst:
 			lst.remove(inp)

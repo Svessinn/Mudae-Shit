@@ -1,5 +1,5 @@
 def main():
-	inp = input()
+	inp = input() # Input your $mmyd list 
 	ls = []
 	while inp:
 		if 'Soulkeys' in inp:
@@ -11,4 +11,3 @@ def main():
 	for i in ls:
 		if i[1]:
 			print('$rk', i[0], '$', i[1])
-
